@@ -4,14 +4,14 @@ plugins {
 
 android {
     namespace = "com.AdeebTechLab.RahamTV"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.AdeebTechLab.RahamTV"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 7
-        versionName = "0.7"
+        targetSdk = 35
+        versionCode = 8
+        versionName = "0.8"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
